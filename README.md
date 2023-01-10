@@ -5,6 +5,8 @@
 
 最新版本的文档请见[docs/index.md](https://github.com/HydroGest/SPGA/blob/main/docs/index.md)，你可以提交Pull Requests做出贡献。
 
+我们还有一个网页端版本：[spga.mkc.icu](http://spga.mkc.icu)
+
 ## 安装
 
 ```
